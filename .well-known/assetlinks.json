@@ -1,0 +1,1 @@
+[{"relation": ["delegate_permission/common.handle_all_urls"], "target": {"namespace": "android_app", "package_name": "io.github.jazzkevmelarch.repasa", "sha256_cert_fingerprints": ["45:65:7B:27:E1:E2:2C:89:30:D9:55:59:7D:D0:4F:86:E4:6F:67:9F:C6:24:D2:78:48:B8:CA:07:16:FC:92:1D"]}}]
